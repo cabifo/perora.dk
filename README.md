@@ -12,6 +12,8 @@ DNS hos simply.com: A- og AAAA-poster for `@` til GitHub Pages og en CNAME-post 
 
 Teksten står i `index.html`. Den samme side ligger i `404.html`, som vises på adresser, der ikke findes.
 
+perorapress.dk viser den samme danske side fra projektet [cabifo/perorapress.dk](https://github.com/cabifo/perorapress.dk) — ret teksten begge steder.
+
 ## Filer
 
 - `logo.svg`: det fulde logo (originalfilen, uændret)
